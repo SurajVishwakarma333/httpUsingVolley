@@ -1,4 +1,4 @@
-Http Using Volley
+Http using Volley
 
 Below is the dependency for Volley which we will be using to get the data from API. 
 For adding this dependency navigate to the app > Gradle Scripts > build.gradle(app) and add the below dependency in the dependencies section.  
