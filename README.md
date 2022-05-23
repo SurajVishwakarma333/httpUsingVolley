@@ -1,4 +1,6 @@
-# Http using Volley
+# Http using Volley 
+
+Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster.
 
 Below is the dependency for Volley which we will be using to get the data from API. 
 For adding this dependency navigate to the app > Gradle Scripts > build.gradle(app) and add the below dependency in the dependencies section.  
